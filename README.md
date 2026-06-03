@@ -1,95 +1,96 @@
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
-<p>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Extensive+Experience+...;Certified+in+over+50+Skills...;built+over+30+Projects..."></p>
- <p>I'm a Senior Full-Stack Engineer with over <b>extensive experience</b> specializing in cutting-edge <b>web development</b>, <b>AI</b> and <b>blockchain</b> solutions. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b>  and seamless <b>cloud computing</b>  integration. <br>Let's bring your project to life with innovative solutions and technologies!</p><b>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50">
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0f172a,45:4f46e5,100:14b8a6&text=Voidara%20Night&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Cloud-Ready%20Products&descAlignY=56&descSize=16" alt="Voidara Night banner" />
+
+[![GitHub followers](https://img.shields.io/github/followers/voidara-night?style=for-the-badge&logo=github&label=Followers&color=14b8a6&labelColor=0f172a)](https://github.com/voidara-night?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=voidara-night&style=for-the-badge&color=14b8a6&label=Profile%20Views)](https://github.com/voidara-night)
+
 </div>
-<br>
+
+## About
+
+I build polished, scalable software across the full stack, with a focus on modern web applications, AI-enabled products, cloud infrastructure, and clean user experiences. I like turning ambitious ideas into reliable systems that are fast, maintainable, and pleasant to use.
+
+```ts
+const voidaraNight = {
+  focus: ["Full-stack web apps", "AI integrations", "Cloud systems", "Developer experience"],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Three.js"],
+  backend: ["Node.js", "Python", "Java", ".NET", "REST", "GraphQL"],
+  data: ["PostgreSQL", "MySQL", "MongoDB", "Firebase", "Supabase"],
+  cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Vercel"],
+  values: ["Performance", "Accessibility", "Security", "Maintainability"],
+};
+```
+
+## What I Do
+
+| Area | How I Help |
+| --- | --- |
+| Product Engineering | Build responsive, production-ready applications from idea to launch. |
+| AI Features | Integrate AI workflows, automation, assistants, and intelligent product experiences. |
+| Backend Systems | Design APIs, services, databases, authentication, and cloud deployments. |
+| UI Quality | Create clean interfaces with strong UX, performance, and cross-device polish. |
+
+## Tech Stack
+
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,threejs&perline=8" alt="Frontend skills" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,fastapi,java,spring,cs,dotnet,ruby,rails,prisma&perline=8" alt="Backend skills" />
+
+### Data, Cloud, and Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,aws,azure,gcp,docker,kubernetes,cloudflare,vercel,git,github,linux,postman,figma,vscode&perline=9" alt="Data cloud and tools" />
+
 </div>
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<h1 id="-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools:</h1>
 
-</p>
+## GitHub Snapshot
 
-<ul>
-<li>Frontend</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,jquery,threejs">
-  </a>
-</p>
-<ul>
-<li>Backend</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize">
-  </a>
-</p>
-<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-<ul>
-<li>Database</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase">
-  </a>
-</p>
-<ul>
-<li>Cloud Servers</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare"><br><br>
-    <img src="https://skillicons.dev/icons?i=vercel,kubernetes">
-  </a>
-</p>
-<ul>
-<li>Tools</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux">
-  </a>
-</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
-
-<p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-<img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
-<p align="center" >💪 Extensive Development Experience💪<br><br>
-⚡️ Expertise in Building Modern, Scalable Applications⚡️<br><br>
-🏆 Strong Focus on Usability &amp; Performance 🏆 <br><br>
-🌍 Responsive Designs for All Devices 🌍<br><br>
-🛠️ Efficient Problem Solver 🛠️<br><br>
-🤝 Dedicated to Delivering Quality on Time 🤝</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dragon0513&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15">
-</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=dragon0513&amp;show_icons=true&amp;count_private=true&amp;theme=darcula&amp;hide_border=true&amp;hide=issues,contribs&amp;bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon0513&amp;layout=compact&amp;hide_border=true&amp;theme=darcula&amp;bg_color=00000000&amp;langs_count=6&amp;hide=jupyter%20notebook,tex,css,php">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragon0513&amp;theme=darcula&amp;hide_border=true&amp;background=FFFFFF00">
-</p><p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p> -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon0513}/count.svg"></p> 
-<br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
+
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voidara-night&theme=tokyonight" alt="Profile details" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voidara-night&theme=tokyonight" alt="Repositories per language" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voidara-night&theme=tokyonight" alt="Most committed languages" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voidara-night&theme=tokyonight" alt="GitHub stats" />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidara-night/voidara-night/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voidara-night/voidara-night/output/github-contribution-grid-snake.svg" />
+  <img width="92%" src="https://raw.githubusercontent.com/voidara-night/voidara-night/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
+
+</div>
+
+## Current Interests
+
+- Building reliable AI-powered product workflows.
+- Designing APIs and cloud systems that scale cleanly.
+- Crafting fast, accessible interfaces with thoughtful details.
+- Exploring blockchain, automation, and developer tooling.
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-voidara--night-0f172a?style=for-the-badge&logo=github)](https://github.com/voidara-night)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore%20Work-14b8a6?style=for-the-badge&logo=github)](https://github.com/voidara-night?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Collaboration%20Welcome-4f46e5?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/voidara-night?tab=repositories)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,55:4f46e5,100:0f172a" alt="Footer wave" />
+
+</div>
