@@ -5,22 +5,43 @@
 [![GitHub followers](https://img.shields.io/github/followers/voidara-night?style=for-the-badge&logo=github&label=Followers&color=14b8a6&labelColor=0f172a)](https://github.com/voidara-night?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=voidara-night&style=for-the-badge&color=14b8a6&label=Profile%20Views)](https://github.com/voidara-night)
 
+<img width="92%" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+scalable+full-stack+products;Designing+AI-powered+workflows;Shipping+clean+cloud-ready+systems" alt="Typing SVG" />
+
 </div>
 
 ## About
 
-I build polished, scalable software across the full stack, with a focus on modern web applications, AI-enabled products, cloud infrastructure, and clean user experiences. I like turning ambitious ideas into reliable systems that are fast, maintainable, and pleasant to use.
+<div align="center">
 
-```ts
-const voidaraNight = {
-  focus: ["Full-stack web apps", "AI integrations", "Cloud systems", "Developer experience"],
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Three.js"],
-  backend: ["Node.js", "Python", "Java", ".NET", "REST", "GraphQL"],
-  data: ["PostgreSQL", "MySQL", "MongoDB", "Firebase", "Supabase"],
-  cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Vercel"],
-  values: ["Performance", "Accessibility", "Security", "Maintainability"],
-};
-```
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<h3>Full-stack engineer for AI-ready products</h3>
+
+<p>I design and build production-minded web applications with clean interfaces, resilient backends, and cloud-ready architecture. My work sits where product polish meets engineering depth: fast UX, reliable APIs, AI-powered workflows, and systems that stay maintainable after launch.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Products-14b8a6?style=flat-square&labelColor=0f172a" alt="Full-stack products" />
+  <img src="https://img.shields.io/badge/AI-Workflow%20Automation-4f46e5?style=flat-square&labelColor=0f172a" alt="AI workflow automation" />
+  <img src="https://img.shields.io/badge/Cloud-Scalable%20Systems-38bdf8?style=flat-square&labelColor=0f172a" alt="Scalable cloud systems" />
+</p>
+
+</td>
+<td width="42%" valign="top">
+
+<pre><code>voidara-night
+
+builds: product-grade software
+ships: clean UI + reliable APIs
+explores: AI, cloud, automation
+cares: performance, security, UX</code></pre>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## What I Do
 
@@ -34,6 +55,15 @@ const voidaraNight = {
 ## Tech Stack
 
 <div align="center">
+
+### Core Toolkit
+
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
 
 ### Frontend
 
@@ -57,6 +87,14 @@ const voidaraNight = {
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voidara-night&theme=tokyonight" alt="Repositories per language" />
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voidara-night&theme=tokyonight" alt="Most committed languages" />
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voidara-night&theme=tokyonight" alt="GitHub stats" />
+
+</div>
+
+## Activity Graph
+
+<div align="center">
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidara-night&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
